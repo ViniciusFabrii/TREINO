@@ -1,0 +1,7 @@
+{
+  "name": "prj-academia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
