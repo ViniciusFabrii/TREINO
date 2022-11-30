@@ -22,6 +22,7 @@
     width: 100vw;
     .item {
       display: flex;
+      background: #1C1D21;
       flex-direction: row;
       justify-content: space-between;
       align-items: center;
@@ -67,7 +68,7 @@
   
     h1 {
       margin: 0;
-      padding-top: 30%;
+      padding-top: 5%;
       font-size: 1.5rem;
       font-weight: 700;
     }
